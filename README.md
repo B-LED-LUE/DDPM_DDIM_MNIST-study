@@ -6,8 +6,8 @@ To observe the model's generative behavior in a controlled environment, the trai
 ## 🚀 Overview
 For a deep dive into the overall algorithms and the specific mathematical formulas implemented in this project, please refer to my detailed post on **Medium**.
 
-[🔗 Read the Full Analysis on Medium](YOUR_MEDIUM_ARTICLE_LINK_HERE)
-
+[🔗 Read the Full Analysis on Medium]
+](https://medium.com/@woohyun301/ddpm-ddim-a598d73d3216?postPublishedType=repub)
 ## 💻 How to Run in Google Colab (The Easiest Way)
 
 You don't need to worry about multiple files. Everything you need to run the experiment—from data loading to training and sampling—is integrated into `main.py`.
